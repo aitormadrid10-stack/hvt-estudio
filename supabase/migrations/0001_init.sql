@@ -76,3 +76,9 @@ $$;
 
 revoke execute on function public.registrar_fallo(text, text) from public, anon;
 grant execute on function public.registrar_fallo(text, text) to authenticated;
+
+-- Los proyectos nuevos de Supabase no dan acceso automático a las tablas: hay que concederlo.
+grant usage on schema public to authenticated;
+grant select, insert, update, delete on public.perfiles, public.progreso, public.tarjetas, public.intentos, public.falladas to authenticated;
+grant usage, select on all sequences in schema public to authenticated;
+revoke all on public.perfiles, public.progreso, public.tarjetas, public.intentos, public.falladas from anon;
