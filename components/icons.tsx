@@ -1,0 +1,20 @@
+type P = { size?: number; className?: string; style?: React.CSSProperties };
+const base = (size = 20) => ({ width: size, height: size, viewBox: '0 0 24 24', fill: 'none', stroke: 'currentColor', strokeLinecap: 'round' as const, strokeLinejoin: 'round' as const, 'aria-hidden': true });
+
+export const Bolt = ({ size = 18 }: P) => <svg {...base(size)} strokeWidth={2.2}><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8Z" /></svg>;
+export const Sun = ({ size = 20 }: P) => <svg {...base(size)} strokeWidth={1.8}><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" /></svg>;
+export const Moon = ({ size = 20 }: P) => <svg {...base(size)} strokeWidth={1.8}><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z" /></svg>;
+export const Search = ({ size = 16 }: P) => <svg {...base(size)} strokeWidth={2}><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>;
+export const Chev = ({ size = 12, className }: P) => <svg {...base(size)} strokeWidth={2.5} className={className}><path d="m9 18 6-6-6-6" /></svg>;
+export const ChevLeft = ({ size = 22 }: P) => <svg {...base(size)} strokeWidth={2.2}><path d="m15 18-6-6 6-6" /></svg>;
+export const ChevDown = ({ size = 16 }: P) => <svg {...base(size)} strokeWidth={2.4}><path d="m6 9 6 6 6-6" /></svg>;
+export const Check = ({ size = 14, w = 3 }: P & { w?: number }) => <svg {...base(size)} strokeWidth={w}><path d="M5 12.5 10 17 19 7" /></svg>;
+export const X = ({ size = 14, w = 3 }: P & { w?: number }) => <svg {...base(size)} strokeWidth={w}><path d="M6 6l12 12M18 6 6 18" /></svg>;
+export const Book = ({ size = 18 }: P) => <svg {...base(size)} strokeWidth={2}><path d="M4 19.5V5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2Z" /></svg>;
+export const Lines = ({ size = 18 }: P) => <svg {...base(size)} strokeWidth={2}><path d="M4 6h16M4 12h16M4 18h10" /></svg>;
+export const List = ({ size = 22 }: P) => <svg {...base(size)} strokeWidth={2}><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01" /></svg>;
+export const Expand = ({ size = 16 }: P) => <svg {...base(size)} strokeWidth={2}><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7" /></svg>;
+export const Flip = ({ size = 18 }: P) => <svg {...base(size)} strokeWidth={2}><path d="M3 12a9 9 0 0 1 15.5-6.2L21 8" /><path d="M21 3v5h-5" /></svg>;
+export const Redo = ({ size = 18 }: P) => <svg {...base(size)} strokeWidth={2}><path d="M3 12a9 9 0 1 0 3-6.7L3 8" /><path d="M3 3v5h5" /></svg>;
+export const Info = ({ size = 18 }: P) => <svg {...base(size)} strokeWidth={2}><circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v5h1" /></svg>;
+export const Logout = ({ size = 18 }: P) => <svg {...base(size)} strokeWidth={1.8}><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4M16 17l5-5-5-5M21 12H9" /></svg>;

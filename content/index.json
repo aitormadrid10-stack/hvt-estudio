@@ -1,0 +1,650 @@
+{
+ "modulos": [
+  {
+   "n": 1,
+   "nombre": "Seguridad en vehículos con sistemas de alto voltaje",
+   "corto": "Seguridad en alto voltaje",
+   "temas": [
+    {
+     "slug": "descarga-electrica-de-alto-voltaje",
+     "nombre": "Descarga eléctrica de alto voltaje",
+     "duracion": "3 h 45 m",
+     "nApartados": 47,
+     "nPreguntas": 62,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Introducción",
+       "nApartados": 1,
+       "nPreguntas": 0
+      },
+      {
+       "n": 2,
+       "titulo": "El cuerpo humano como conductor eléctrico",
+       "nApartados": 10,
+       "nPreguntas": 17
+      },
+      {
+       "n": 3,
+       "titulo": "Efectos directos e indirectos",
+       "nApartados": 13,
+       "nPreguntas": 11
+      },
+      {
+       "n": 4,
+       "titulo": "Riesgos eléctricos y químicos",
+       "nApartados": 10,
+       "nPreguntas": 10
+      },
+      {
+       "n": 5,
+       "titulo": "Intervenciones en caso de accidente de origen eléctrico (PAS)",
+       "nApartados": 11,
+       "nPreguntas": 14
+      },
+      {
+       "n": 6,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 10
+      }
+     ]
+    },
+    {
+     "slug": "equipos-de-proteccion-individual-y-colectiva",
+     "nombre": "Equipos de protección individual y colectiva",
+     "duracion": "4 h 45 m",
+     "nApartados": 73,
+     "nPreguntas": 52,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Equipos de protección colectiva",
+       "nApartados": 25,
+       "nPreguntas": 9
+      },
+      {
+       "n": 2,
+       "titulo": "Herramientas y útiles específicos de seguridad",
+       "nApartados": 16,
+       "nPreguntas": 9
+      },
+      {
+       "n": 3,
+       "titulo": "Puesto de trabajo y su entorno",
+       "nApartados": 12,
+       "nPreguntas": 8
+      },
+      {
+       "n": 4,
+       "titulo": "Equipos de protección individual",
+       "nApartados": 9,
+       "nPreguntas": 7
+      },
+      {
+       "n": 5,
+       "titulo": "Aislamiento eléctrico",
+       "nApartados": 9,
+       "nPreguntas": 9
+      },
+      {
+       "n": 7,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 10
+      }
+     ]
+    },
+    {
+     "slug": "alta-tension-en-el-taller",
+     "nombre": "Alta tensión en el taller",
+     "duracion": "4 h 50 m",
+     "nApartados": 69,
+     "nPreguntas": 47,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Normativa general",
+       "nApartados": 9,
+       "nPreguntas": 8
+      },
+      {
+       "n": 2,
+       "titulo": "Apartados que deben figurar en el plan de prevención de riesgos laborales de la empresa",
+       "nApartados": 22,
+       "nPreguntas": 4
+      },
+      {
+       "n": 3,
+       "titulo": "Aplicación de las normas de prevención de riesgos laborales",
+       "nApartados": 8,
+       "nPreguntas": 10
+      },
+      {
+       "n": 4,
+       "titulo": "Consignación en vehículos híbridos y eléctricos",
+       "nApartados": 20,
+       "nPreguntas": 15
+      },
+      {
+       "n": 5,
+       "titulo": "Ejemplos de desconexión de la alta tensión",
+       "nApartados": 8,
+       "nPreguntas": 0
+      },
+      {
+       "n": 7,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "nombre": "Tracción eléctrica e híbrida en vehículos",
+   "corto": "Tracción eléctrica e híbrida",
+   "temas": [
+    {
+     "slug": "fundamentos-de-la-electricidad",
+     "nombre": "Fundamentos de la electricidad",
+     "duracion": "11 h 20 m",
+     "nApartados": 106,
+     "nPreguntas": 102,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Leyes y fundamentos de la electricidad",
+       "nApartados": 5,
+       "nPreguntas": 10
+      },
+      {
+       "n": 2,
+       "titulo": "Magnetismo e inducción electromagnética",
+       "nApartados": 9,
+       "nPreguntas": 10
+      },
+      {
+       "n": 3,
+       "titulo": "Tipos de corriente y conexionado",
+       "nApartados": 13,
+       "nPreguntas": 12
+      },
+      {
+       "n": 4,
+       "titulo": "Circuitos eléctricos básicos y elementos que los constituyen",
+       "nApartados": 15,
+       "nPreguntas": 13
+      },
+      {
+       "n": 5,
+       "titulo": "Componentes eléctricos",
+       "nApartados": 14,
+       "nPreguntas": 15
+      },
+      {
+       "n": 6,
+       "titulo": "Componentes electrónicos",
+       "nApartados": 12,
+       "nPreguntas": 15
+      },
+      {
+       "n": 7,
+       "titulo": "Datos: Red CAN y Red LIN",
+       "nApartados": 36,
+       "nPreguntas": 13
+      },
+      {
+       "n": 9,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 14
+      }
+     ]
+    },
+    {
+     "slug": "propulsion-electrica",
+     "nombre": "Propulsión eléctrica",
+     "duracion": "9 h 15 m",
+     "nApartados": 83,
+     "nPreguntas": 122,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Arquitectura del sistema de propulsión del vehículo eléctrico",
+       "nApartados": 7,
+       "nPreguntas": 8
+      },
+      {
+       "n": 2,
+       "titulo": "Elementos de conexión, conductores y aislantes",
+       "nApartados": 7,
+       "nPreguntas": 12
+      },
+      {
+       "n": 3,
+       "titulo": "Cargador CA/CC",
+       "nApartados": 14,
+       "nPreguntas": 12
+      },
+      {
+       "n": 4,
+       "titulo": "Convertidor eléctrico CC/CC",
+       "nApartados": 3,
+       "nPreguntas": 11
+      },
+      {
+       "n": 5,
+       "titulo": "Inversor/Rectificador CC/CA",
+       "nApartados": 11,
+       "nPreguntas": 18
+      },
+      {
+       "n": 6,
+       "titulo": "Máquina eléctrica",
+       "nApartados": 21,
+       "nPreguntas": 18
+      },
+      {
+       "n": 7,
+       "titulo": "Equipos de medición y control para los vehículos eléctricos",
+       "nApartados": 5,
+       "nPreguntas": 16
+      },
+      {
+       "n": 8,
+       "titulo": "Mantenimiento del sistema de propulsión en vehículos eléctricos",
+       "nApartados": 13,
+       "nPreguntas": 12
+      },
+      {
+       "n": 10,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 15
+      }
+     ]
+    },
+    {
+     "slug": "propulsion-hibrida",
+     "nombre": "Propulsión híbrida",
+     "duracion": "9 h 40 m",
+     "nApartados": 54,
+     "nPreguntas": 108,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Introducción",
+       "nApartados": 7,
+       "nPreguntas": 5
+      },
+      {
+       "n": 2,
+       "titulo": "Arquitectura del sistema de propulsión del vehículo híbrido",
+       "nApartados": 9,
+       "nPreguntas": 14
+      },
+      {
+       "n": 3,
+       "titulo": "Tipos de motores de combustión empleados en vehículos híbridos",
+       "nApartados": 7,
+       "nPreguntas": 18
+      },
+      {
+       "n": 4,
+       "titulo": "Estudio de los componentes eléctricos del sistema de propulsión híbrida",
+       "nApartados": 13,
+       "nPreguntas": 23
+      },
+      {
+       "n": 5,
+       "titulo": "Sistema de recarga de la batería de alta tensión",
+       "nApartados": 6,
+       "nPreguntas": 16
+      },
+      {
+       "n": 6,
+       "titulo": "Mantenimiento, verificación y ajuste de los componentes del sistema de propulsión híbrida",
+       "nApartados": 10,
+       "nPreguntas": 17
+      },
+      {
+       "n": 8,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 15
+      }
+     ]
+    },
+    {
+     "slug": "propulsion-por-pila-de-combustible",
+     "nombre": "Propulsión por pila de combustible",
+     "duracion": "11 h",
+     "nApartados": 81,
+     "nPreguntas": 101,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Funcionamiento de la pila de combustible",
+       "nApartados": 5,
+       "nPreguntas": 17
+      },
+      {
+       "n": 2,
+       "titulo": "Hidrógeno para la pila de combustible",
+       "nApartados": 13,
+       "nPreguntas": 16
+      },
+      {
+       "n": 3,
+       "titulo": "Funcionamiento del sistema de propulsión con pila de combustible (FCBEV)",
+       "nApartados": 19,
+       "nPreguntas": 16
+      },
+      {
+       "n": 4,
+       "titulo": "Mantenimiento, verificación y ajuste de los componentes del sistema de propulsión con pila de combustible",
+       "nApartados": 9,
+       "nPreguntas": 9
+      },
+      {
+       "n": 5,
+       "titulo": "Aplicación de los protocolos de seguridad en vehículos con propulsión con pila de combustible",
+       "nApartados": 4,
+       "nPreguntas": 10
+      },
+      {
+       "n": 6,
+       "titulo": "Aplicación de las normas de prevención de riesgos laborales y de protección ambiental en el mantenimiento de los sistemas de propulsión con pila de combustible",
+       "nApartados": 29,
+       "nPreguntas": 13
+      },
+      {
+       "n": 8,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "nombre": "Sistemas de alto voltaje, almacenamiento y recarga eléctrica",
+   "corto": "Alto voltaje, almacenamiento y recarga",
+   "temas": [
+    {
+     "slug": "almacenamiento-de-alta-tension-reess",
+     "nombre": "Almacenamiento de alta tensión (REESS)",
+     "duracion": "8 h 10 m",
+     "nApartados": 56,
+     "nPreguntas": 65,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Introducción, características y magnitudes de las baterías de alta tensión",
+       "nApartados": 5,
+       "nPreguntas": 14
+      },
+      {
+       "n": 2,
+       "titulo": "La batería de alta tensión",
+       "nApartados": 20,
+       "nPreguntas": 19
+      },
+      {
+       "n": 3,
+       "titulo": "Mantenimiento, diagnosis y comprobación de las baterías de alta tensión",
+       "nApartados": 14,
+       "nPreguntas": 9
+      },
+      {
+       "n": 4,
+       "titulo": "Desmontaje y montaje de la batería de alta tensión de vehículos eléctricos",
+       "nApartados": 7,
+       "nPreguntas": 7
+      },
+      {
+       "n": 5,
+       "titulo": "Tratamientos pare el reciclado de baterías",
+       "nApartados": 8,
+       "nPreguntas": 6
+      },
+      {
+       "n": 7,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 10
+      }
+     ]
+    },
+    {
+     "slug": "sistemas-de-recarga-electrica",
+     "nombre": "Sistemas de recarga eléctrica",
+     "duracion": "7 h 30 m",
+     "nApartados": 67,
+     "nPreguntas": 101,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Introducción a los sistemas de recarga de alta tensión",
+       "nApartados": 7,
+       "nPreguntas": 0
+      },
+      {
+       "n": 2,
+       "titulo": "Tipos de corriente",
+       "nApartados": 3,
+       "nPreguntas": 11
+      },
+      {
+       "n": 3,
+       "titulo": "Tipos de recarga",
+       "nApartados": 7,
+       "nPreguntas": 19
+      },
+      {
+       "n": 4,
+       "titulo": "Infraestructura de recarga",
+       "nApartados": 16,
+       "nPreguntas": 16
+      },
+      {
+       "n": 5,
+       "titulo": "Recarga de vehículos pesados",
+       "nApartados": 3,
+       "nPreguntas": 8
+      },
+      {
+       "n": 6,
+       "titulo": "Sistema y protocolo de carga",
+       "nApartados": 20,
+       "nPreguntas": 12
+      },
+      {
+       "n": 7,
+       "titulo": "Equipo de recarga embarcado",
+       "nApartados": 5,
+       "nPreguntas": 15
+      },
+      {
+       "n": 8,
+       "titulo": "Verificación y ajuste de los sistemas",
+       "nApartados": 4,
+       "nPreguntas": 5
+      },
+      {
+       "n": 10,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "nombre": "Sistemas de transmisión, freno regenerativo y control térmico",
+   "corto": "Transmisión, freno y control térmico",
+   "temas": [
+    {
+     "slug": "sistemas-de-transmision-ve-y-vh",
+     "nombre": "Sistemas de transmisión VE y VH",
+     "duracion": "6 h 20 m",
+     "nApartados": 41,
+     "nPreguntas": 67,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Fundamentos físicos de la transmisión de fuerzas",
+       "nApartados": 2,
+       "nPreguntas": 10
+      },
+      {
+       "n": 2,
+       "titulo": "Sistemas de transmisión",
+       "nApartados": 13,
+       "nPreguntas": 16
+      },
+      {
+       "n": 3,
+       "titulo": "Transmisión de fuerza en vehículos eléctricos",
+       "nApartados": 15,
+       "nPreguntas": 10
+      },
+      {
+       "n": 4,
+       "titulo": "Transmisión de fuerza en vehículos híbridos",
+       "nApartados": 9,
+       "nPreguntas": 16
+      },
+      {
+       "n": 6,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 15
+      }
+     ]
+    },
+    {
+     "slug": "freno-regenerativo-y-mecanico",
+     "nombre": "Freno regenerativo y mecánico",
+     "duracion": "5 h 45 m",
+     "nApartados": 50,
+     "nPreguntas": 82,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Introducción a las fuerzas de frenado",
+       "nApartados": 4,
+       "nPreguntas": 11
+      },
+      {
+       "n": 2,
+       "titulo": "Estructura y características del sistema de frenado regenerativo",
+       "nApartados": 14,
+       "nPreguntas": 16
+      },
+      {
+       "n": 3,
+       "titulo": "Funcionamiento del sistema de frenado regenerativo",
+       "nApartados": 3,
+       "nPreguntas": 13
+      },
+      {
+       "n": 4,
+       "titulo": "Sistema de regulación de frenos",
+       "nApartados": 12,
+       "nPreguntas": 15
+      },
+      {
+       "n": 5,
+       "titulo": "Mantenimiento",
+       "nApartados": 6,
+       "nPreguntas": 4
+      },
+      {
+       "n": 6,
+       "titulo": "Prevención de riesgos laborales en el mantenimiento de sistemas de frenos regenerativos",
+       "nApartados": 4,
+       "nPreguntas": 7
+      },
+      {
+       "n": 7,
+       "titulo": "Protección ambiental",
+       "nApartados": 5,
+       "nPreguntas": 4
+      },
+      {
+       "n": 8,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 12
+      }
+     ]
+    },
+    {
+     "slug": "control-termico-ve-y-vh",
+     "nombre": "Control térmico VE y VH",
+     "duracion": "7 h 30 m",
+     "nApartados": 78,
+     "nPreguntas": 70,
+     "secciones": [
+      {
+       "n": 1,
+       "titulo": "Principios de la física de climatización",
+       "nApartados": 8,
+       "nPreguntas": 10
+      },
+      {
+       "n": 2,
+       "titulo": "Sistema de calefacción y aire acondicionado",
+       "nApartados": 10,
+       "nPreguntas": 6
+      },
+      {
+       "n": 3,
+       "titulo": "Componentes del sistema de climatización",
+       "nApartados": 20,
+       "nPreguntas": 11
+      },
+      {
+       "n": 4,
+       "titulo": "Mantenimiento y operaciones en el sistema de climatización",
+       "nApartados": 5,
+       "nPreguntas": 8
+      },
+      {
+       "n": 5,
+       "titulo": "Refrigeración del sistema de alta tensión",
+       "nApartados": 20,
+       "nPreguntas": 10
+      },
+      {
+       "n": 6,
+       "titulo": "Mantenimiento y operaciones en el sistema de refrigeración",
+       "nApartados": 6,
+       "nPreguntas": 7
+      },
+      {
+       "n": 7,
+       "titulo": "Prevención de riesgos laborales en el mantenimiento de sistemas de climatización y refrigeración",
+       "nApartados": 7,
+       "nPreguntas": 8
+      },
+      {
+       "n": 8,
+       "titulo": "Actividades finales y autoevaluación",
+       "nApartados": 2,
+       "nPreguntas": 10
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
