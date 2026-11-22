@@ -74,4 +74,5 @@ as $$
   do update set veces = public.falladas.veces + 1, ultima = now();
 $$;
 
+revoke execute on function public.registrar_fallo(text, text) from public, anon;
 grant execute on function public.registrar_fallo(text, text) to authenticated;
