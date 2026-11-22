@@ -19,8 +19,8 @@ App para estudiar el CFGS **Mantenimiento y seguridad en sistemas de vehículos 
 ### 2. Vercel
 1. **Add New › Project** → importa este repositorio.
 2. En *Environment Variables* añade:
-   - `NEXT_PUBLIC_SUPABASE_URL`
-   - `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`
+   - `NEXT_PUBLIC_HVT_SUPABASE_URL`
+   - `NEXT_PUBLIC_HVT_SUPABASE_KEY` (la publishable key)
 3. **Deploy**. Cada push a `main` se publica solo.
 
 ### 3. En local
